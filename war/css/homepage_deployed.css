@@ -1,0 +1,1349 @@
+#header #logo {
+	float: left;
+	margin: 18px 0 0 7px;
+	width: 295px;
+	height: 47px;
+	background:
+		url(/images/logo-shadow-623.png)
+		-4px -2px no-repeat;
+	text-indent: -9999em
+}
+
+.container {
+	width: 100%
+}
+
+
+.container a {
+	color: #1f4a92
+}
+
+
+.rounded {
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px
+}
+
+.shadow {
+	box-shadow: 2px 2px 3px #999
+}
+
+.background {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/backrepeat_home.jpg);
+	background-repeat: repeat-x;
+	background-position: left top
+}
+
+.container {
+	position: relative;
+	overflow: hidden;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/home_background.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 100%
+}
+
+.groupback {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/home_background.jpg)
+}
+
+.content {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.pagetop {
+	display: block;
+	padding-top: 30px;
+	position: relative
+}
+
+.splodge {
+	width: 564px;
+	height: 284px;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/splodges.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	float: left;
+	display: inline;
+	margin-bottom: 20px;
+	position: relative
+}
+
+#radio1 {
+	left: 0
+}
+
+.groups {
+	background-position: 0 -289px;
+	height: 385px;
+	margin-bottom: 10px
+}
+
+.messaging {
+	width: 320px;
+	float: left;
+	padding-left: 48px;
+	display: inline
+}
+
+.messaging h1 {
+	padding: 0;
+	margin: 0;
+	margin-top: 10px;
+	font-size: 30px;
+	line-height: 32px;
+	color: #FFF;
+	text-shadow: #0f2066 1px 1px 1px
+}
+
+.messaging h2 {
+	padding: 0;
+	margin: 0;
+	padding-top: 15px;
+	color: #b7cae7;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px
+}
+
+.messaging ul {
+	padding: 0;
+	margin: 0
+}
+
+.messaging li {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -653px -19px;
+	margin-top: 5px
+}
+
+.messaging li span {
+	font-size: 14px;
+	margin-left: 25px;
+	color: #fff
+}
+
+.addthis_default_style .addthis_counter {
+	display: block;
+	float: right
+}
+
+.pagecontent {
+	margin: 0 !important;
+	background-color: #fff;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	padding-top: 10px
+}
+
+.pageright {
+	width: 620px;
+	float: left;
+	margin-left: 30px;
+	display: inline
+}
+
+.pageleft {
+	width: 290px;
+	float: left;
+	margin-left: 10px;
+	display: inline
+}
+
+.pageright h2 {
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	margin-bottom: 5px
+}
+
+.pageleft h2 {
+	font-size: 14px;
+	margin-top: 20px;
+	margin-bottom: 10px
+}
+
+.pageleft a {
+	color: #666
+}
+
+.toprated {
+	background-color: #f6f6f6;
+	padding: 10px;
+	width: 600px
+}
+
+.toprated_head {
+	padding-bottom: 5px;
+	border-bottom: 2px dotted #e1e1e1;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -647px -959px;
+	background-repeat: no-repeat;
+	text-indent: 20px;
+	font-weight: bold;
+	color: #2453a5;
+	cursor: pointer;
+	margin-top: 4px
+}
+
+.toprated_head a {
+	color: #2453a5
+}
+
+.toprated_head span {
+	float: right;
+	font-weight: normal;
+	color: #999
+}
+
+.toprated_image {
+	width: 91px;
+	height: 88px;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -648px -576px;
+	background-repeat: no-repeat;
+	float: left;
+	margin-top: 10px
+}
+
+.toprated_image img {
+	margin-left: 13px;
+	margin-top: 7px
+}
+
+.toprated_list {
+	margin-bottom: 20px;
+	width: 600px
+}
+
+.toprated td {
+	white-space: nowrap;
+	border-bottom: 1px dotted #e1e1e1;
+	padding-top: 6px;
+	padding-bottom: 6px
+}
+
+.toprated td a {
+	color: #666
+}
+
+.toprated .rating {
+	font-weight: bold;
+	color: #F60;
+	text-align: right;
+	padding-left: 3px
+}
+
+.toprated .price {
+	font-weight: bold;
+	color: #666;
+	text-align: right;
+	padding-left: 6px;
+	padding-right: 12px
+}
+
+.toprated .viewall {
+	font-weight: bold;
+	color: #F60
+}
+
+.toprated .noborder {
+	border: 0
+}
+
+.close {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -647px -927px;
+	background-repeat: no-repeat
+}
+
+.splodge form {
+	width: 520px;
+	margin-left: 30px;
+	margin-top: 28px
+}
+
+.splodge input,select {
+	border: 0;
+	font-size: 14px;
+	color: #2454a6 !important;
+	/*width: 100%*/
+}
+.splodge select {
+	width: 60%
+}
+
+.splodge .search-type-radio {
+	position: absolute;
+	left: 20px;
+	width: 10px
+}
+
+.roundback {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.png);
+	background-position: right -701px;
+	background-repeat: no-repeat;
+	height: 33px;
+	background-color: #fff;
+	padding: 0
+}
+
+.roundback div {
+	display: block;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.png);
+	background-position: left -577px;
+	background-repeat: no-repeat;
+	padding-bottom: 9px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 6px
+}
+
+.bigdropdownleft {
+	width: 240px;
+	float: left;
+	margin-bottom: 20px
+}
+
+.bigdropdownleft input {
+	background-color: #fff
+}
+
+.bigdropdownright input {
+	background-color: #fff
+}
+
+.bigdropdownright {
+	width: 240px;
+	float: right;
+	margin-right: 15px;
+	margin-bottom: 20px
+}
+
+.datedropdown {
+	margin-right: 15px;
+	width: 120px !important;
+	float: left
+}
+
+.datedropdown input {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-repeat: no-repeat;
+	background-position: -477px -927px
+}
+
+.smalldropdown {
+	margin-right: 15px;
+	width: 60px;
+	float: left
+}
+
+.grouptypedropdown {
+	width: 143px;
+	float: left
+}
+
+#group_ages {
+	float: left;
+	clear: both;
+	margin-top: 10px
+}
+
+#group_ages label {
+	position: relative;
+	top: auto;
+	margin-right: 10px
+}
+
+.bigfield {
+	width: 475px;
+	clear: left
+}
+
+.inactive {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.png);
+	background-position: right -743px
+}
+
+.inactive div {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.png);
+	background-position: left -619px;
+	background-repeat: no-repeat;
+	padding-bottom: 9px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 6px;
+	display: block
+}
+
+.inactive input {
+	background-color: #ffd1b3;
+	color: #9192ac !important
+}
+
+.inactive select {
+	background-color: #ffd1b3;
+	color: #9192ac !important
+}
+
+.propertytype {
+	font-size: 12px
+}
+
+div.propertytype {
+	color: #fff;
+	font-weight: bold;
+	margin-top: 15px;
+	padding-left: 4px
+}
+
+#propertytype li {
+	white-space: nowrap
+}
+
+#propertytype input {
+	width: auto;
+	vertical-align: bottom
+}
+
+#propertytype label {
+	color: #fff;
+	font-size: 11px
+}
+
+.searchdetails {
+	margin-top: 32px;
+	overflow: show
+}
+
+.searchdetails label {
+	position: absolute;
+	top: 170px;
+	color: #FFF;
+	font-weight: bold;
+	white-space: nowrap
+}
+
+.alldestinations {
+	display: none
+}
+
+.ageranges {
+	width: 400px
+}
+
+.ageranges label {
+	float: left !important;
+	color: #fff;
+	font-size: 11px;
+	font-weight: bold;
+	margin-top: 3px;
+	white-space: nowrap
+}
+
+.ageranges input {
+	margin-right: 3px;
+	position: relative;
+	top: 1px;
+	width: auto
+}
+
+#group_ages,#group_label1,#group_label2,#group_type,#group_message {
+	display: none
+}
+
+.searchbutton {
+	float: left
+}
+
+.searchposition {
+	margin-top: 15px;
+	*margin-top: 10px
+}
+
+#group_message li {
+	font-size: 11px
+}
+
+#datesbutton {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.png);
+	background-position: right -1555px;
+	background-repeat: no-repeat;
+	height: 35px;
+	background-color: #fff;
+	padding: 0
+}
+
+#datesbutton div {
+	display: block;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 8px;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.png);
+	background-position: left -1483px;
+	background-repeat: no-repeat;
+	text-align: center
+}
+
+#datesbutton button {
+	background-color: transparent;
+	white-space: nowrap;
+	padding: 0;
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center !important;
+	min-width: 100px
+}
+
+#muabutton {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.png);
+	background-position: right -1390px;
+	background-repeat: no-repeat;
+	height: 35px;
+	background-color: #fff;
+	padding: 0
+}
+
+#muabutton div {
+	display: block;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 8px;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.png);
+	background-position: left -1329px;
+	background-repeat: no-repeat;
+	text-align: center
+}
+
+#muabutton button {
+	background-color: transparent;
+	background-image: url("http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.png");
+	white-space: nowrap;
+	padding: 0;
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center !important;
+	min-width: 100px
+}
+
+.specialdeals {
+	width: 600px
+}
+
+.specialdeals_heading {
+	color: #1f4a92;
+	font-weight: bold;
+	font-size: 12px;
+	padding-top: 2px
+}
+
+.specialdeals_image {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -652px -410px;
+	width: 170px;
+	height: 125px;
+	float: left
+}
+
+.specialdeals_image img {
+	margin-left: 8px;
+	margin-top: 10px;
+	width: 150px;
+	height: 100px
+}
+
+.specialdeals_description a {
+	color: #F60;
+	font-weight: bold
+}
+
+.competitionspace {
+	margin-top: 20px
+}
+
+.competitionspace .greybox h2 {
+	color: #1f4a92;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 0;
+	margin: 0
+}
+
+.competitionspace ul {
+	width: 300px;
+	float: right;
+	margin-left: 20px
+}
+
+.competitionspace ul a {
+	color: #F60;
+	font-weight: bold
+}
+
+.competitionspace img {
+	width: 270px;
+	float: left
+}
+
+.travelservices h3 {
+	font-size: 14px;
+	padding: 0;
+	margin: 0
+}
+
+.travelservices .greybox {
+	height: 140px
+}
+
+.travelservices ul {
+	margin-bottom: 10px;
+	width: 190px;
+	float: left;
+	display: inline-block
+}
+
+.travelservices .text {
+	width: 130px;
+	float: left;
+	margin-left: 10px
+}
+
+.travelservices .text a {
+	color: #F60;
+	font-weight: bold
+}
+
+.travelservices .text h3 a {
+	color: #666
+}
+
+.icon_insurance {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -653px -728px;
+	width: 39px;
+	height: 39px;
+	display: inline;
+	float: left
+}
+
+.icon_flights {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -653px -777px;
+	width: 39px;
+	height: 39px;
+	display: inline;
+	float: left
+}
+
+.icon_lonelyplanet {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -653px -826px;
+	width: 39px;
+	height: 39px;
+	display: inline;
+	float: left
+}
+
+.scroller {
+	display: block;
+	height: 15px;
+	margin-bottom: 10px;
+	margin-top: 12px;
+	margin-left: 150px;
+	position: absolute;
+	bottom: 20px;
+	left: 30px
+}
+
+.scroller li {
+	cursor: pointer
+}
+
+.scroller .active {
+	background-color: #fbae7b
+}
+
+.scroller li {
+	width: 15px;
+	height: 15px;
+	margin-right: 5px;
+	float: left;
+	background-color: #e1e1e1;
+	padding: 5px;
+	text-align: center;
+	font-weight: bold;
+	color: #FFF;
+	font-size: 12px;
+	line-height: 17px
+}
+
+.media_background {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -830px -576px;
+	width: 91px;
+	height: 88px;
+	float: left
+}
+
+.media_background img {
+	margin-left: 13px;
+	margin-top: 7px
+}
+
+.media a {
+	color: #f60
+}
+
+.media h3 a {
+	color: #666
+}
+
+.media .text {
+	width: 200px;
+	float: right
+}
+
+.media .bolded {
+	font-weight: bold;
+	margin-top: 5px
+}
+
+.specialdeals,.travelservices,.guides,.videos,.features,.podcasts,.myworld,.poll,.itineraries
+	{
+	width: 300px;
+	margin-top: 20px
+}
+
+.specialdeals {
+	float: left
+}
+
+.travelservices {
+	width: 620px !important
+}
+
+.specialdeals {
+	width: 620px !important;
+	margin-bottom: 20px
+}
+
+.specialdeals .greybox {
+	height: 125px;
+	overflow: hidden;
+	position: relative
+}
+
+.guides,.videos,.features,.podcasts {
+	background-color: #fff;
+	float: left;
+	display: inline
+}
+
+.guides h2,.videos h2,.features h2,.podcasts h2 {
+	margin-bottom: 5px;
+	border-bottom: 1px dotted #e1e1e1
+}
+
+.features,.podcasts {
+	margin-right: 20px
+}
+
+.features,.videos {
+	margin-bottom: 20px
+}
+
+.poll,.myworld {
+	background-color: #fff;
+	float: left;
+	display: inline;
+	margin-bottom: 30px;
+	margin-top: 40px
+}
+
+.myworld {
+	margin-right: 20px
+}
+
+.greybox {
+	background-color: #f6f6f6;
+	padding: 10px
+}
+
+.280 {
+	width: 280px
+}
+
+.300 {
+	width: 300px
+}
+
+.600 {
+	width: 600px
+}
+
+.whitebox {
+	background-color: #FFF
+}
+
+.promo {
+	background-color: #e5f6fd;
+	padding: 10px;
+	margin-bottom: 20px
+}
+
+.promo h2 {
+	color: #2453a5;
+	margin-top: 0;
+	padding-top: 0;
+	line-height: 14px;
+	padding-bottom: 0
+}
+
+.promo h3 {
+	color: #2453a5
+}
+
+.promo a {
+	color: #f60
+}
+
+.promo h2 a,.promo h3 a {
+	color: #2453a5
+}
+
+.promo li {
+	margin-left: 5px
+}
+
+.promoimageback {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -648px -230px;
+	width: 273px;
+	height: 160px;
+	margin-left: 0
+}
+
+.promoimageback img {
+	margin-left: 15px;
+	margin-top: 7px
+}
+
+.promoimageback.groupdiscounts a {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/groupbooking_home.jpg)
+		no-repeat 0 7px;
+	display: block;
+	width: 243px;
+	height: 146px;
+	margin-left: 15px
+}
+
+.bookingguarantee a {
+	color: #f60
+}
+
+.icon_mobile {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/mobile_icon.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	width: 48px;
+	height: 48px;
+	float: left;
+	margin-right: 10px
+}
+
+.mobile a {
+	color: #f60
+}
+
+.icon_groups {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/groups_icon.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	width: 48px;
+	height: 48px;
+	float: left;
+	margin-right: 10px
+}
+
+.groupbox a {
+	color: #f60
+}
+
+.tophostels {
+	padding-bottom: 10px;
+	border-bottom: 2px dotted #e1e1e1
+}
+
+.tophostels li {
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px dotted #e1e1e1
+}
+
+.tophostels li span {
+	float: right
+}
+
+.tophostels li div {
+	color: #999;
+	font-size: 11px
+}
+
+.topcities {
+	padding-bottom: 10px;
+	border-bottom: 2px dotted #e1e1e1
+}
+
+.topcities li {
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px dotted #e1e1e1
+}
+
+.topcities li span {
+	float: right
+}
+
+.mapsearch ul {
+	width: 290px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-top: 1px dotted #e1e1e1;
+	border-bottom: 1px dotted #e1e1e1
+}
+
+.mapsearch li {
+	float: left;
+	margin-right: 5px;
+	list-style-type: none;
+	list-style-position: inside;
+	cursor: pointer
+}
+
+#twtr-widget-1 .twtr-bd,#twtr-widget-1 .twtr-timeline i a,#twtr-widget-1 .twtr-bd p
+	{
+	font-family: Arial, Helvetica, sans-serif !important;
+	line-height: 18px !important
+}
+
+div.pageleft .twtr-widget {
+	font-family: Arial, Helvetica, sans-serif !important
+}
+
+div.pageleft #twtr-widget-1 a.twtr-hashtag {
+	display: inline-block !important
+}
+
+.twtr-hd {
+	display: none
+}
+
+.twtr-ft div {
+	display: none
+}
+
+.twtr-widget .twtr-tweet {
+	border: 0 !important;
+	margin-bottom: 15px !important
+}
+
+.twtr-widget .twtr-tweet-wrap {
+	padding-left: 0 !important;
+	padding-right: 0 !important
+}
+
+.twitterheading {
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -439px -680px;
+	width: 290px;
+	margin-bottom: 0 !important
+}
+
+#twtr-widget-1 em {
+	background-color: #f6f6f6;
+	display: block;
+	padding: 3px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px
+}
+
+div.pageleft #twtr-widget-1 em a {
+	color: #666 !important
+}
+
+div.pageleft .twtr-atreply {
+	color: #1f4a92 !important;
+	font-weight: bold !important
+}
+
+#special2,#special3,#special4,#special5 {
+	display: none
+}
+
+.worldmap {
+	width: 290px;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.png);
+	background-position: -0px -1690px;
+	background-repeat: no-repeat;
+	position: relative
+}
+
+.eu {
+	background-position: -0px -670px
+}
+
+.as {
+	background-position: -0px -840px
+}
+
+.oc {
+	background-position: -0px -1010px
+}
+
+.af {
+	background-position: -0px -1180px
+}
+
+.na {
+	background-position: -0px -1350px
+}
+
+.sa {
+	background-position: -0px -1520px
+}
+
+.activemap {
+	color: #f60
+}
+
+.activemap a {
+	color: #f60 !important
+}
+
+#regions {
+	position: relative;
+	width: 290px;
+	height: 140px;
+	border: 0;
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-color: transparent;
+	background-origin: padding-box;
+	background-size: auto auto
+}
+
+#regions a {
+	display: block;
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	text-indent: -9999px
+}
+
+#europe {
+	height: 40px;
+	left: 115px;
+	top: 1px;
+	width: 156px
+}
+
+#northAmerica {
+	height: 61px;
+	left: 3px;
+	top: 0;
+	width: 100px
+}
+
+#southAmerica {
+	height: 58px;
+	left: 52px;
+	top: 75px;
+	width: 38px
+}
+
+#asia {
+	height: 70px;
+	left: 152px;
+	top: 25px;
+	width: 110px
+}
+
+#africa {
+	height: 72px;
+	left: 115px;
+	top: 44px;
+	width: 65px
+}
+
+#oceania {
+	height: 62px;
+	left: 235px;
+	top: 72px;
+	width: 54px
+}
+
+#europe a {
+	height: 36px;
+	width: 156px
+}
+
+#northAmerica a {
+	height: 61px;
+	width: 100px
+}
+
+#southAmerica a {
+	height: 57px;
+	width: 38px
+}
+
+#asia a {
+	height: 56px;
+	width: 110px
+}
+
+#africa a {
+	height: 62px;
+	width: 65px
+}
+
+#oceania a {
+	height: 54px;
+	width: 54px
+}
+
+.poll h3 {
+	color: #1f4a92;
+	font-size: 14px;
+	font-weight: bold
+}
+
+.pollresult li {
+	margin-bottom: 10px
+}
+
+.poll li span {
+	float: right
+}
+
+.poll .pollbg {
+	width: 100%;
+	background-color: #e1e1e1;
+	height: 10px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px
+}
+
+.poll .pollbg .pollfiller {
+	background-color: #a6b3c9;
+	height: 10px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px
+}
+
+.greybutton {
+	background-color: #666;
+	border: 0;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	padding: 6px;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	cursor: pointer;
+	border-radius: 7px
+}
+
+.myworldimage {
+	height: 123px;
+	width: 280px;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/myworld.png);
+	background-position: 0 0;
+	background-repeat: no-repeat
+}
+
+.myworldtext {
+	font-weight: bold;
+	font-size: 16px
+}
+
+.myworldimage a {
+	display: block;
+	width: 100%;
+	height: 100%
+}
+
+.groupmessage {
+	color: #fff;
+	float: left;
+	line-height: 11px;
+	margin-left: 10px;
+	margin-top: 20px;
+	width: 300px;
+	display: none
+}
+
+#searchTooltip {
+	position: absolute;
+	left: 530px;
+	display: none;
+	background-image:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/tooltip-arrow.gif);
+	background-repeat: no-repeat;
+	background-position: 0 15px;
+	padding-left: 4px
+}
+
+#searchTooltip div {
+	width: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	color: #246ac5;
+	background-color: #fff
+}
+
+#country,#city {
+	width: 204px !important
+}
+
+#date_from {
+	width: 108px !important
+}
+
+#find-hostels-btn {
+	background-image: none !important
+}
+
+.bookingguarantee h2 {
+	margin-top: 0;
+	margin-bottom: 11px
+}
+
+.bnb-branding-image {
+	width: 173px;
+	height: 46px;
+	float: left;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bnb-brand/homepage.png)
+		no-repeat;
+	margin-right: 15px
+}
+
+.somenewstyle {
+	display: none
+}
+
+.sb-checkbox-lb {
+	font-weight: normal !important
+}
+
+#jii-link {
+	position: absolute;
+	left: 50%;
+	margin-left: 420px;
+	width: 320px;
+	height: 270px;
+	text-indent: -999em;
+	z-index: 5
+}
+
+/*hung.nguyentuan*/
+.bestsellingimgback {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/tours/imgback_lrg.png);
+	background-position: -2px 0;
+	background-repeat: no-repeat;
+	height: auto;
+	padding-left: 18px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 270px;
+	overflow: hidden;
+	font-size: 1pt
+}
+.rounded {
+    border-radius: 7px 7px 7px 7px;
+}
+.white {
+    background-color: #FCFCFC;
+}
+.featuretourbox {
+    float: left;
+    height: 164px;
+    padding: 10px;
+    width: 280px !important;
+}
+.tourName {
+	color: #FC411C;
+	font-size: large;
+}
+
+.gia {
+	float: right;
+	padding-right: 10px;
+	background-color: #FC411C;
+	padding: 2px 10px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.ngay {
+    background-color: #18357E;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 2px 10px;
+    position: relative;
+    top: -45px;
+}

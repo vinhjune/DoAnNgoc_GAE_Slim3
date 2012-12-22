@@ -1,0 +1,2527 @@
+#header #logo {
+	float: left;
+	margin: 18px 0 0 7px;
+	width: 295px;
+	height: 47px;
+	background:
+		url(/images/logo-shadow-623.png)
+		-4px -2px no-repeat;
+	text-indent: -9999em
+}
+.container {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/tours/massiveback.jpg)
+}
+
+.pagetop {
+	margin-bottom: 95px;
+	padding-left: 10px
+}
+
+.topheading {
+	width: 330px;
+	float: right
+}
+
+.content H1 {
+	padding-top: 3px !important;
+	padding-bottom: 3px !important;
+	line-height: 22px !important
+}
+
+.topheading h1 {
+	color: #fff !important;
+	font-size: 30px !important;
+	line-height: 32px !important;
+	margin-top: 55px;
+	text-shadow: 1px 1px 1px #0f2066
+}
+
+.fabdetails h2 a {
+	color: #1f4a92 !important;
+	font-weight: bold !important;
+	line-height: 20px !important;
+	font-size: 14px !important;
+	white-space: normal !important;
+	text-transform: lowercase !important;
+	margin-top: 0 !important;
+	text-decoration: none !important
+}
+
+.search-strip {
+	float: left;
+	margin-left: 15px;
+	margin-top: 40px;
+	padding-top: 16px;
+	width: 580px;
+	position: relative
+}
+
+.search-strip em {
+	color: #fff !important
+}
+
+.search-strip table {
+	width: 100px !important
+}
+
+.search-strip label input {
+	margin-top: 9px;
+	width: auto !important
+}
+
+.search-strip label {
+	color: #fff;
+	font-size: 11px;
+	font-weight: bold
+}
+
+.search-strip td {
+	vertical-align: top !important
+}
+
+.search-strip input,select {
+	border: 0;
+	font-size: 14px;
+	color: #2454a6 !important;
+	/*width: 100%*/
+}
+.search-strip select {
+	width: 100%;
+}
+.splodge .search-type-radio {
+	position: absolute;
+	left: 20px;
+	width: 10px
+}
+
+.roundback {
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/search.gif");
+	background-position: right -163px;
+	background-repeat: no-repeat;
+	height: 33px;
+	background-color: #fff;
+	padding: 0
+}
+
+.roundback div {
+	display: block;
+	height: 25px;
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/search.gif");
+	background-position: left -39px;
+	background-repeat: no-repeat;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-top: 7px
+}
+
+.bigdropdownleft {
+	width: 218px
+}
+
+.bigdropdownleft input {
+	background-color: #fff
+}
+
+.bigdropdownright input {
+	background-color: #fff
+}
+
+.bigdropdownright {
+	width: 218px;
+	margin-left: 10px
+}
+
+.datedropdown {
+	margin-left: 10px;
+	margin-right: 7px;
+	width: 120px !important;
+	padding-right: 0 !important
+}
+
+.datedropdown input {
+	BACKGROUND-POSITION: -480px -928px;
+	BACKGROUND-IMAGE:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.gif);
+	BACKGROUND-REPEAT: no-repeat;
+	width: 110px !important;
+	background-color: #fff;
+	cursor: pointer
+}
+
+.smalldropdown {
+	margin-right: 15px;
+	width: 120px !important
+}
+
+.grouptypedropdown {
+	width: 143px
+}
+
+.bigfield {
+	width: 315px
+}
+
+.searchdetails {
+	margin-top: 40px
+}
+
+.searchdetails label {
+	position: absolute;
+	top: 130px;
+	color: #FFF;
+	font-weight: bold;
+	white-space: nowrap
+}
+
+.alldestinations {
+	display: none
+}
+
+.searchbutton {
+	float: left
+}
+
+.searchposition {
+	margin-top: 15px;
+	*margin-top: 10px
+}
+
+.search-strip p {
+	margin-top: 5px;
+	margin-bottom: 5px
+}
+
+#datesbutton {
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/search.gif");
+	background-position: right -343px;
+	background-repeat: no-repeat;
+	height: 35px;
+	background-color: #fff;
+	padding: 0;
+	width: 100px;
+	display: block;
+	margin-left: 10px;
+	overflow: hidden
+}
+
+#datesbutton div {
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/search.gif");
+	background-position: left -271px;
+	background-repeat: no-repeat;
+	text-align: center;
+	line-height: 32px
+}
+
+#datesbutton button {
+	background-color: transparent;
+	white-space: nowrap;
+	padding: 0;
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center !important;
+	width: 100%;
+	line-height: 32px
+}
+
+#bookbutton {
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/search.gif");
+	background-position: right -343px;
+	background-repeat: no-repeat;
+	height: 35px;
+	background-color: #fff;
+	padding: 0;
+	width: 100px;
+	display: block;
+	margin-left: 10px;
+	overflow: hidden
+}
+
+#bookbutton div {
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/search.gif");
+	background-position: left -271px;
+	background-repeat: no-repeat;
+	text-align: center;
+	line-height: 32px
+}
+
+#bookbutton button {
+	background-color: transparent;
+	white-space: nowrap;
+	padding: 0;
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center !important;
+	width: 100%;
+	line-height: 32px
+}
+
+#tour-search-submit {
+	background-image: none !important
+}
+
+#tour-search-form li {
+	float: left
+}
+
+.micro-latestreview {
+	margin-top: 10px
+}
+
+.latestreviews {
+	background-color: #f7f7f7;
+	margin-bottom: 20px;
+	padding: 10px
+}
+
+.latestreviews h3 {
+	color: #666;
+	font-size: 14px;
+	padding-bottom: 0
+}
+
+.essentiallists ul {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted #ccc
+}
+
+.essentiallists h4 {
+	padding: 0;
+	margin: 0
+}
+
+.floatlist li {
+	margin-right: 10px
+}
+
+.greybox {
+	background-color: #f6f6f6;
+	padding: 10px
+}
+
+.microratingpanel {
+	color: #999;
+	margin-bottom: 0 !important
+}
+
+.microratingpanel h2 {
+	font-size: 60px !important;
+	line-height: 60px !important;
+	color: #f60
+}
+
+.microratingpanel h2.notyetrated {
+	font-size: 22px !important
+}
+
+.right h2 {
+	color: #666 !important;
+	font-size: 18px !important;
+	font-weight: normal !important; 
+	margin: 0; 
+	margin-top: 20px;
+	padding: 0
+}
+
+.right .essentiallists h4 {
+	margin-bottom: 0
+}
+
+.bookbox .book-with-us li {
+	float: none;
+	position: relative
+}
+
+}
+.bookbox h4 {
+	margin-bottom: 10px
+}
+
+.microratings h3 {
+	color: #666 !important
+}
+
+.book-with-us {
+	padding: 10px
+}
+
+.book-with-us {
+	margin-top: 20px;
+	margin-bottom: 20px
+}
+
+.book-with-us h2 {
+	padding: 0;
+	margin-top: 0 !important
+}
+
+.book-with-us ul {
+	padding: 0;
+	margin: 0
+}
+
+.book-with-us li {
+	margin: 0;
+	list-style: none;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/tours/tick.png)
+		no-repeat top left;
+	padding-left: 25px
+}
+
+.bookbox {
+	width: 250px;
+	float: right
+}
+
+.bookbox .greybox {
+	font-size: 12px !important
+}
+
+.bookbox h2 {
+	margin-top: 0 !important
+}
+
+.bookbox li {
+	float: left
+}
+
+.bookbox label {
+	display: block;
+	font-size: 11px;
+	font-weight: bold;
+	margin-bottom: 3px;
+	color: #fff
+}
+
+#datesbutton button {
+	position: static
+}
+
+.bookbox #datesbutton div {
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.gif");
+	background-position: left -877px;
+	background-repeat: no-repeat;
+	color: #fff;
+	display: block;
+	font-size: 14px;
+	font-weight: bold;
+	padding-bottom: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0 !important;
+	text-align: center;
+	line-height: 28px !important;
+	height: 28px !important
+}
+
+.bookbox #datesbutton {
+	background-color: #fff;
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/fabsprites.gif")
+		!important;
+	background-position: right -1081px;
+	background-repeat: no-repeat;
+	height: 28px !important;
+	padding: 0;
+	margin-left: 0 !important;
+	padding-top: 0 !important;
+	float: none;
+	width: 100px;
+	line-height: 28px !important
+}
+
+.bookbox #datesbutton button {
+	line-height: 28px !important;
+	padding-top: 0 !important;
+	height: 28px !important
+}
+
+.bookbox #tr-start-date {
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/homepage/sprites.gif");
+	background-position: -488px -921px;
+	background-repeat: no-repeat
+}
+
+.smallsearch li input {
+	border: 0;
+	padding: 8px;
+	color: #2455a7;
+	padding-left: 4px
+}
+
+#tr-start-date {
+	width: 90px !important
+}
+
+.smallsearch li select {
+	border: 0;
+	padding: 6px;
+	color: #2455a7;
+	padding-bottom: 8px
+}
+
+.contentblock {
+	width: 440px;
+	margin-bottom: 20px
+}
+
+.contentblock h2 {
+	margin-top: 0;
+	margin-bottom: 10px;
+	line-height: 18px
+}
+
+.contentblock .microreviews {
+	width: 420px
+}
+
+.touressentials {
+	width: 420px;
+	font-size: 12px !important
+}
+
+.contentblock .reviewbox {
+	width: 345px
+}
+
+.tourimage {
+	width: 150px;
+	float: left
+}
+
+.essentiallists {
+	width: 240px;
+	float: right
+}
+
+.searchbox {
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/topsearch.png")
+		!important
+}
+
+.searchtours .searchlist {
+	margin-top: 17px !important
+}
+
+.searchtours li {
+	float: left;
+	margin-right: 15px;
+	margin-left: 0
+}
+
+.searchtours .datedropdown {
+	margin-left: 0
+}
+
+.searchtours .bigfield {
+	width: 350px
+}
+
+.searchtours label {
+	font-size: 11px;
+	color: #fff;
+	margin-bottom: 3px;
+	font-weight: bold
+}
+
+.searchtours .roundback {
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/search.gif");
+	background-position: right -127px;
+	background-repeat: no-repeat
+}
+
+.searchtours .roundback div {
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/search.gif");
+	background-position: left -3px;
+	background-repeat: no-repeat;
+	display: block;
+	padding: 5px
+}
+
+.searchtours #date_from {
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/usability/fab/datepicker.png");
+	background-position: 90px 2px;
+	background-repeat: no-repeat;
+	width: 102px !important
+}
+
+.searchtours #datesbutton {
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/search.gif");
+	background-position: right -382px;
+	background-repeat: no-repeat;
+	height: 28px;
+	background-color: #fff;
+	padding: 0;
+	width: auto;
+	display: block;
+	width: 100px;
+	margin-left: 0 !important;
+	overflow: hidden;
+	line-height: 28px
+}
+
+.searchtours #datesbutton div {
+	display: block;
+	padding-bottom: 6px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0 !important;
+	background-image:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/tours/search.gif");
+	background-position: left -311px;
+	background-repeat: no-repeat;
+	text-align: center;
+	overflow: hidden;
+	line-height: 28px;
+	height: 28px
+}
+
+.searchtours #datesbutton button {
+	background-color: transparent;
+	white-space: nowrap;
+	padding: 0;
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center !important;
+	width: 100%;
+	line-height: 28px;
+	height: 28px
+}
+
+.fabfilter li {
+	padding-left: 5px;
+	font-size: 11px
+}
+
+.fabfilter li a {
+	color: #666;
+	text-decoration: none
+}
+
+.fabfilter select {
+	color: #666 !important
+}
+
+.fabresult .tourimgback_grey {
+	margin-left: 6px;
+	font-size: 1pt
+}
+
+.fabpricing ul {
+	min-height: 20px !important
+}
+
+.fabtopfilters {
+	width: 685px
+}
+
+.fabtopfilters select {
+	margin: 0;
+	padding: 0;
+	color: #666 !important;
+	font-size: 11px;
+	width: 100px;
+	padding: 3px
+}
+
+.fabdetails {
+	width: 300px !important
+}
+
+.fabdetails ul {
+	width: 300px
+}
+
+.cancellation li {
+	list-style: decimal inside
+}
+
+.fabdetails h2 {
+	color: #1f4a92 !important;
+	font-weight: bold !important;
+	line-height: 20px !important;
+	font-size: 14px !important;
+	white-space: normal !important;
+	text-transform: lowercase !important;
+	margin-top: 0 !important;
+	width: auto !important
+}
+
+.fabdetailsaddress p {
+	margin-top: 5px
+}
+
+.fabdetails h2:first-letter {
+	text-transform: uppercase
+}
+
+#tr-itin-tab h3 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #666
+}
+
+#tour-book-form {
+	margin-top: 5px;
+	padding-top: 5px
+}
+
+#left #filter {
+	background: #1e3179;
+	float: left;
+	height: 30px;
+	margin: 0 0 20px;
+	padding: 15px 0 0 20px;
+	width: 650px
+}
+
+#left #filter ul {
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 600px
+}
+
+#left #filter li {
+	color: #fff;
+	float: left;
+	font: bold 12px Arial, sans-serif;
+	list-style: none;
+	margin: 0;
+	padding: 0 21px 0 0
+}
+
+#filter ul li a.eur-selected {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/currency-btns.png)
+		0 -18px no-repeat
+}
+
+#filter .usd-selected {
+	background:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/bg/currency-btns.png")
+		no-repeat scroll 0 -54px transparent
+}
+
+#filter .gbp-selected {
+	background:
+		url("http://icd.hwstatic.com/static/images/1.19.3.1/bg/currency-btns.png")
+		no-repeat scroll 0 -90px transparent
+}
+
+#left #filter a {
+	float: left;
+	height: 18px;
+	margin: 0 5px 0 0;
+	text-indent: -9999em;
+	width: 18px
+}
+
+#convertEUR {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/currency-btns.png)
+		0 0 no-repeat
+}
+
+#convertUSD {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/currency-btns.png)
+		0 -36px no-repeat
+}
+
+#convertGBP {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/currency-btns.png)
+		0 -72px no-repeat
+}
+
+#left #filter select {
+	color: #333;
+	font: 11px arial;
+	margin: 0;
+	padding: 0;
+	width: 108px
+}
+
+#container #tours {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/logo-shadow-623.png)
+		0 -68px no-repeat;
+	float: left;
+	margin: 10px 0 0;
+	padding: 15px 10px 0 24px;
+	width: 926px;
+	position: relative
+}
+
+#tours #booking-breadcrumb {
+	margin-left: 5px;
+	margin-top: -15px;
+	padding-bottom: 10px
+}
+
+#container #tours p {
+	margin: 0 0 5px
+}
+
+* HTML #container #tours {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/shadow622.png)
+		no-repeat top left
+}
+
+#container #tours A.more {
+	display: inline-block;
+	margin: 0 0 15px;
+	padding: 0 8px 0 0;
+	color: #ff4200;
+	font-size: 12px;
+	font-weight: bold;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/arrow-red.jpg)
+		no-repeat right 6px
+}
+
+#container #tours h1 {
+	display: block;
+	padding: 0 0 20px 10px;
+	margin: 0;
+	font: 30px arial;
+	color: #666
+}
+
+#container #tours .head-search h1 {
+	font-size: 18px
+}
+
+#container #tours h2 {
+	position: relative;
+	display: block;
+	padding: 0 0 10px 0;
+	font: bold 16px/20px arial;
+	color: #1e3179;
+	text-align: left
+}
+
+#container #tours h3 {
+	display: block;
+	padding: 0;
+	font: bold 14px/1 arial;
+	color: #1e3179;
+	margin-bottom: 10px
+}
+
+#container #tours h3 a {
+	color: #1e3179
+}
+
+#tours #left {
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 606px;
+	background: 0
+}
+
+#container #tours .head-search {
+	width: 606px;
+	padding: 0 0 18px;
+	float: left;
+	clear: both
+}
+
+#container #tours .head-search h2 {
+	display: block;
+	padding: 0;
+	font: bold 18px Arial, Helvetica, sans-serif;
+	color: #666;
+	margin: 0;
+	clear: both;
+	overflow: hidden
+}
+
+#container #tours .head-search h2 span {
+	color: #133d8d
+}
+
+#tours #left #filter {
+	width: 580px
+}
+
+#tours #left .tours-search {
+	float: left;
+	padding: 18px 0 0;
+	margin: 0 0 15px 17px;
+	width: 586px;
+	position: relative;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/frame-border586-top.jpg)
+		no-repeat top left
+}
+
+#tours #left .tours-search div.inner {
+	float: left;
+	margin: 0;
+	padding: 6px 23px 15px;
+	width: 540px;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/frame-border586-bottom.jpg)
+		no-repeat bottom left
+}
+
+#tours #left .blue-search {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/frame-border586-top_blue.png)
+		no-repeat top left
+}
+
+#tours #left .blue-search div.inner {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/frame-border586-bottom_blue.png)
+		no-repeat bottom left
+}
+
+#container #tours #left .yellow-search {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/frame-border586-top_yellow.jpg)
+		no-repeat top left
+}
+
+#container #tours #left .yellow-search div.inner {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/frame-border586-bottom_yellow.jpg)
+		no-repeat bottom left
+}
+
+* HTML #tours #left .tours-search {
+	margin: 0 0 15px 8px
+}
+
+#tours #left .tours-search .rating {
+	float: left;
+	width: 150px
+}
+
+#tours #left .tours-search .rating IMG {
+	float: left;
+	padding: 0;
+	margin: 0;
+	clear: both
+}
+
+#tours #left .tours-search .rating div {
+	float: left;
+	width: 130px;
+	padding: 5px 10px 0;
+	height: 61px;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/rating.jpg)
+		no-repeat
+}
+
+#tours #left .tours-search .rating H1 {
+	display: block;
+	padding: 0;
+	font: bold 11px arial;
+	color: #fff;
+	margin: 0
+}
+
+#tours #left .tours-search .rating h1 strong {
+	display: block;
+	padding: 0;
+	float: left;
+	font-size: 36px;
+	color: #fff;
+	margin: 0
+}
+
+#tours #left .tours-search .rating div.max-rating h1 strong {
+	display: block;
+	padding: 0;
+	float: left;
+	font-size: 30px;
+	color: #fff;
+	margin: 0
+}
+
+#tours #left .tours-search .rating H1 EM {
+	float: right;
+	width: 50px;
+	font: bold 11px/12px arial;
+	padding: 8px 0 0
+}
+
+#tours #left .tours-search .rating h1.new-property {
+	text-align: center
+}
+
+#tours #left .tours-search .rating h1.new-property strong {
+	float: none
+}
+
+#tours #left .tours-search div.rating P {
+	font: bold 11px/12px arial;
+	padding: 0;
+	display: block;
+	clear: both;
+	color: #fff;
+	text-align: center
+}
+
+#tours #left .tours-search .details {
+	float: right;
+	width: 370px
+}
+
+#tours #left .tours-search .details h2 {
+	display: block;
+	padding: 0 0 15px;
+	font: bold 18px arial;
+	color: #1f4a94
+}
+
+#tours #left .tours-search .details h2 a {
+	color: #1f4a94
+}
+
+#tours #left .tours-search .details h2 span {
+	font: 12px arial;
+	color: #666
+}
+
+#tours #left .tours-search .details P {
+	font: 12px/14px arial;
+	color: #666;
+	display: block;
+	padding: 0 0 15px
+}
+
+#tours #left .tours-search .price {
+	float: left;
+	width: 370px;
+	padding: 0 0 15px
+}
+
+#tours #left .tours-search .price span {
+	float: right;
+	color: #1f4a94;
+	font: 10px arial;
+	text-align: right;
+	position: relative;
+	margin: -5px 0 0;
+	width: auto
+}
+
+* HTML #tours #left .tours-search .price span {
+	margin-top: -15px
+}
+
+#tours #left .tours-search .price STRONG {
+	font: bold 16px arial;
+	display: inline-block;
+	padding: 0 0 0 5px
+}
+
+#tours #left .tours-search .details .price P {
+	float: left;
+	width: 370px;
+	padding: 0
+}
+
+#tours #left .tours-search A.btn-red31white {
+	float: right;
+	width: 110px
+}
+
+#tours #left .tours-search .details P A.more {
+	margin: 0;
+	background-position: right 4px
+}
+
+#tours #left .tours-search ul.add {
+	display: block;
+	width: 24px;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	left: -20px;
+	top: 18px
+}
+
+#tours #left .tours-search ul.add li {
+	float: left;
+	padding: 13px 0 0 7px;
+	margin: 0 0 2px;
+	list-style: none;
+	width: 17px;
+	height: 26px;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/add.png)
+		no-repeat 0 0
+}
+
+#tours #left .tours-search ul.add li A {
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: 15px;
+	height: 15px;
+	text-indent: -9999em
+}
+
+#tours #left .tours-search ul.add li A.heart {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/icon-heart.jpg)
+		no-repeat
+}
+
+#tours #left .tours-search ul.add li A.globe {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/icon-globe.jpg)
+		no-repeat
+}
+
+#tours #left .tours-search ul.add li A.star {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/icon-star.jpg)
+		no-repeat
+}
+
+#container #tours #left .yellow-search ul.add li {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/add.jpg)
+		no-repeat 0 0
+}
+
+#container #tours #left .yellow-search ul.add li a {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/icon-remove.jpg)
+		no-repeat
+}
+
+#tours #left .blue-search ul.add li {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/add-blue.png)
+		no-repeat 0 0
+}
+
+.tour-book-now a.btn {
+	float: right
+}
+
+#tours .to-do {
+	padding: 10px;
+	width: 600px
+}
+
+#tours .to-do div.inner {
+	float: left;
+	margin: 0;
+	padding: 0 23px 15px 17px;
+	width: 560px;
+	background: #edf9fe
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/frame-blue600-bottom.jpg)
+		no-repeat bottom left
+}
+
+#tours .to-do div.trip {
+	float: left;
+	width: 160px;
+	padding: 5px 3px 0
+}
+
+#tours .to-do div.frame166-blue {
+	float: left;
+	margin: 0 0 0 -3px
+}
+
+#container #tours .to-do h2 {
+	padding: 10px !important
+}
+
+#container #tours .to-do P {
+	font: 12px/17px Arial;
+	color: #666;
+	padding: 0
+}
+
+#tours .to-do ul {
+	width: 590px;
+	padding: 0;
+	margin: 0
+}
+
+#tours .to-do ul li {
+	float: left;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	width: 166px;
+	padding-right: 10px;
+	margin-right: 10px;
+	border-right: 1px dotted #e1e1e1
+}
+
+#tours .featured-tours {
+	padding: 10px;
+	width: 600px
+}
+
+#tours .featured-tours h2 {
+	padding: 0 !important
+}
+
+#tours .featured-tours div.trip {
+	float: left;
+	width: 160px;
+	padding: 5px 3px 0
+}
+
+.tourimgback_grey {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/tours/imgback_grey.png)
+		no-repeat top left;
+	height: 115px;
+	padding-left: 8px;
+	padding-top: 3px;
+	width: 166px;
+	float: left;
+	font-size: 1px;
+	overflow: hidden;
+	font-size: 1pt
+}
+
+.tourimgback {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/tours/imgback.png)
+		no-repeat top left;
+	height: 115px;
+	padding-left: 8px;
+	padding-top: 3px;
+	width: 166px;
+	font-size: 1pt
+}
+
+#tours .featured-tours div.frame166-white {
+	float: left;
+	margin: 0 0 0 -3px
+}
+
+#container #tours .featured-tours P {
+	font: 12px/17px Arial;
+	color: #666;
+	padding: 0
+}
+
+#tours .featured-tours ul {
+	width: 600px;
+	padding: 0;
+	margin: 0
+}
+
+#tours .featured-tours ul li {
+	float: left;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	width: 166px;
+	padding-right: 10px;
+	margin-right: 10px;
+	border-right: 1px dotted #e1e1e1
+}
+
+#tours .best-selling {
+	width: 620px
+}
+
+#container #tours .best-selling h2 {
+	padding: 0 0 9px 8px;
+	font: 20px Arial, Helvetica, sans-serif;
+	color: #fff
+}
+
+#tours .best-selling ul {
+	height: 200px;
+	padding: 0;
+	margin: 0;
+	width: 600px;
+	position: relative
+}
+
+#tours .best-selling ul li {
+	list-style: none;
+	width: 130px;
+	float: left;
+	padding-bottom: 8px;
+	
+	background-position: left 7px;
+	background-repeat: no-repeat;
+	padding-left: 12px
+}
+
+#tours .tour-cat {
+	font: bold 12px Arial, Helvetica, sans-serif;
+	color: #666
+}
+
+#tours .tour-cat:hover,#tours a.active {
+	text-decoration: none;
+	color: #1f4a92;
+	position: relative
+}
+
+#tours .best-selling div.right {
+	float: right;
+	position: absolute;
+	top: 0px;
+	left: 0;
+	width: 600px;
+	padding-top: 10px;
+	border-top: 2px  #e1e1e1
+}
+
+#tours .best-selling .img-border {
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	width: 250px;
+	height: 163px
+}
+
+#tours .best-selling div.row EM {
+	font: 12px/17px Arial;
+	color: #666
+}
+
+#container #tours .best-selling H3 {
+	padding: 0;
+	margin: 0
+}
+
+#container #tours .best-selling P {
+	clear: left;
+	font: 12px/17px Arial;
+	color: #666;
+	padding: 0;
+	margin: 0 0 2px 0
+}
+
+.bestsellingimgback {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/tours/imgback_lrg.png);
+	background-position: -2px 0;
+	background-repeat: no-repeat;
+	height: auto;
+	padding-left: 18px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 270px;
+	overflow: hidden;
+	font-size: 1pt
+}
+
+#tours .best-selling .right li {
+	float: none;
+	width: 290px;
+	padding: 0;
+	background-image: none
+}
+
+.featuretourbox {
+	width: 280px !important;
+	float: left;
+	padding: 10px;
+	height: 164px
+}
+
+.featuretourbox ul {
+	height: auto !important;
+	width: 280px !important
+}
+
+.featuretourbox li {
+	padding: 0 !important;
+	width: 280px !important
+}
+
+.featuretourbox li span {
+	color: #1f4a92
+}
+
+.white {
+	background-color: #fcfcfc
+}
+
+#tours .best-selling P span,#tours .best-selling EM span {
+	font-weight: bold;
+	color: #1f4a92
+}
+
+#tours .best-selling div.right A {
+	width: 290px;
+	height: auto;
+	
+}
+
+#tours .best-selling div.right H3 a {
+	float: none;
+	color: #FC411C;
+	font-size: large;
+}
+
+.gia {
+	float: right;
+	padding-right: 10px;
+	background-color: #FC411C;
+	padding: 2px 10px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.ngay {
+	color: #fff;
+	position: absolute;
+	top: 0;
+	background-color: #18357E;
+	font-weight: bold;
+	padding: 2px 10px;
+	margin-left: 10px;
+	
+}
+
+#tours .search-strip {
+	padding: 110px 25px 0 30px;
+	margin: 0 0 10px -8px;
+	width: 557px;
+	height: 160px;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/search-strip-temp-bg.png)
+		no-repeat top left
+}
+
+#container #tours .search-strip h1 {
+	padding: 0 0 9px 8px;
+	font: 20px Arial, Helvetica, sans-serif;
+	color: #fff
+}
+
+#container #tours .search-strip div.row {
+	float: left;
+	width: 557px;
+	padding: 0
+}
+
+#tours .search-strip td em {
+	color: #fff;
+	font-size: 14px;
+	display: block;
+	font-weight: bold;
+	text-align: center;
+	margin: 0;
+	width: 355px
+}
+
+#container #tours .search-strip div.row h2 {
+	display: block;
+	text-align: center;
+	width: 360px;
+	padding: 0
+}
+
+#tour-search-form table {
+	width: 560px
+}
+
+#container #tours .search-strip span.fld_1 {
+	float: left;
+	padding: 5px 0 0 15px;
+	width: 275px;
+	height: 24px;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/tours-text-input.png)
+		no-repeat
+}
+
+#container #tours .search-strip span.fld_1 input {
+	background: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	width: 265px
+}
+
+#container #tours .search-strip span.fld_3 {
+	float: left;
+	padding: 5px 0 0 15px;
+	margin: 0;
+	width: 110px;
+	height: 24px;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/tours-date-toggle-search.png)
+		no-repeat
+}
+
+#container #tours .search-strip #tour-search-form span.fld_3_disabled {
+	background-position: 0 -29px
+}
+
+#container #tours .search-strip #tour-search-form span.fld_3_disabled input
+	{
+	color: #666
+}
+
+#container #tours .search-strip #date_from {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	width: 100px;
+	color: #112169;
+	background: 0
+}
+
+#container #tours .search-strip #date_from:hover {
+	cursor: pointer
+}
+
+#tour-search-form td label {
+	color: #fff;
+	display: block;
+	float: left;
+	font-weight: bold;
+	width: 108px;
+	white-space: nowrap
+}
+
+#container #tours .search-strip .btn-red31orange {
+	float: left;
+	margin: 0 0 0 40px;
+	width: 100px
+}
+
+#tours #right {
+	float: right;
+	width: 306px;
+	padding: 0 0 20px
+}
+
+#top-rated-tours {
+	width: 260px;
+	margin: 0 auto
+}
+
+#top-rated-tours h2 {
+	margin-bottom: 10px
+}
+
+#top-rated-tours li {
+	width: 260px;
+	overflow: hidden
+}
+
+#top-rated-tours .img-border {
+	float: left
+}
+
+#top-rated-tours .tip {
+	float: right;
+	width: 130px;
+	overflow: hidden
+}
+
+#container #tours #top-rated-tours h3 {
+	color: #1e3179;
+	font-weight: bold;
+	margin-bottom: 3px
+}
+
+#container #top-rated-tours p {
+	margin: 0 0 2px 0
+}
+
+#container #top-rated-tours p.location {
+	color: #999;
+	font: italic 12px/1.2 Georgia
+}
+
+#top-rated-tours li {
+	padding-bottom: 20px
+}
+
+#tours #right .tours-list {
+	float: left;
+	padding: 21px 0 0;
+	margin: 0 0 15px;
+	width: 306px;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/box306top_blue.jpg)
+		no-repeat top left
+}
+
+#tours #right .tours-list div.inner {
+	float: left;
+	margin: 0;
+	padding: 0 23px 10px;
+	width: 260px;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/box306bottom_blue.jpg)
+		no-repeat bottom left
+}
+
+#tours #right .tours-list h2 {
+	float: left;
+	width: 260px;
+	padding: 5px 0 7px !important;
+	border-top: 5px solid #1e3179;
+	color: #1e3179
+}
+
+#tours #right .tours-list A {
+	font: 12px arial;
+	color: #666
+}
+
+#tours #right .tours-list A:hover {
+	text-decoration: underline
+}
+
+#tours #right .tours-list ul {
+	float: left;
+	padding: 0;
+	margin: 0;
+	width: 130px
+}
+
+#tours #right .tours-list ul li {
+	padding: 0 0 3px;
+	margin: 0;
+	width: 130px;
+	list-style: none
+}
+
+#tours #right .box {
+	width: 300px;
+	margin: 0 0 0 3px;
+	border: 0;
+	padding: 0 0 10px
+}
+
+#tours #right .box H3 {
+	color: #133d8d
+}
+
+#tours #right .box ul.view {
+	width: 300px
+}
+
+#tours #right .box ul.view li {
+	width: 300px
+}
+
+#tours #right .box ul.view STRONG {
+	float: right
+}
+
+#tours #right .box ul.view A {
+	width: 225px
+}
+
+#narrow-search,#recently-viewed {
+	width: 260px;
+	margin: 0 auto;
+	padding: 10px 0
+}
+
+#narrow-search h4 {
+	color: #666;
+	margin-bottom: 0
+}
+
+#narrow-search ul {
+	margin-bottom: 10px
+}
+
+#narrow-search li {
+	line-height: 1.8em
+}
+
+#right #recently-viewed .view {
+	width: 260px
+}
+
+#right .view th,#right .view td {
+	padding: 5px 8px
+}
+
+#right .view th {
+	color: #133d8d;
+	font-weight: bold;
+	text-align: left
+}
+
+#right .view-tl {
+	background: #e5e3e4
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/view-tl.png) 0 0
+		no-repeat
+}
+
+#right .view td,#right .view td a {
+	color: #333
+}
+
+#right .view th,#right .view td {
+	padding: 5px 8px
+}
+
+tr.light td,tr.light th {
+	background: #fff
+}
+
+#right .view-tr {
+	background: #e5e3e4
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/view-tr.png)
+		100% 0 no-repeat
+}
+
+.view .remove {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/view-remove-btn.png)
+		no-repeat scroll 0 0 transparent;
+	display: block;
+	float: left;
+	height: 12px;
+	line-height: 12px;
+	text-indent: -9999px;
+	width: 12px
+}
+
+#container #tr-details {
+	float: left;
+	width: 445px
+}
+
+#container #tr-details h1 {
+	font-size: 24px;
+	padding: 0
+}
+
+#tr-details p {
+	color: #666;
+	font: bold 14px/18px arial
+}
+
+#tr-details p a {
+	color: #133d8d
+}
+
+#tr-avg-rating {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/tr-rating-bg.png)
+		no-repeat;
+	float: right;
+	height: 75px;
+	text-align: center;
+	width: 99px
+}
+
+#tr-avg-rating strong {
+	color: #fff;
+	display: block;
+	font-size: 32px;
+	line-height: 1;
+	padding-top: 12px
+}
+
+#tr-avg-rating span {
+	color: #fff;
+	display: block;
+	font-size: 10px;
+	text-transform: uppercase
+}
+
+.h-mod-300 {
+	margin-bottom: 20px;
+	overflow: hidden;
+	width: 300px
+}
+
+.h-mod-300-grey .h-mod-top {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/h-box-grey-top-300x15.png)
+		0 0 no-repeat
+}
+
+.h-mod-300 .h-mod-top,.h-mod-300 .h-mod-btm {
+	height: 15px;
+	width: 300px
+}
+
+.h-mod-grey .h-mod-mid {
+	background: #f5f5f5
+}
+
+.h-mod-300-white .h-mod-top {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/h-box-white-top-300x15.png)
+		0 0 no-repeat
+}
+
+.h-mod-300-white .h-mod-mid {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/h-box-white-mid-300x2.png)
+		0 0 repeat-y
+}
+
+.h-mod-300-white .h-mod-btm {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/h-box-white-btm-300x15.png)
+		0 0 no-repeat
+}
+
+#tours #right .h-mod-300-grey {
+	float: left
+}
+
+.h-mod-300-grey .h-mod-mid {
+	background: #f5f5f5
+}
+
+.h-mod-300-grey .h-mod-btm {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/h-box-grey-btm-300x15.png)
+		0 0 no-repeat
+}
+
+#left ul.short {
+	border-bottom: 15px solid #1e3179;
+	margin: 0 0 25px !important
+}
+
+#tours #left ul#bars {
+	width: 590px;
+	float: left;
+	margin: 0;
+	padding: 10px 0 0 10px
+}
+
+#left ul#bars li {
+	float: left;
+	height: 30px;
+	list-style: none;
+	margin: 0;
+	padding: 0 7px 0 0;
+	position: relative
+}
+
+#left ul#bars li a {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bar-left.png) 0 0
+		no-repeat;
+	color: #133d8d;
+	float: left;
+	font: bold 12px Arial, sans-serif;
+	height: 30px;
+	margin: 0;
+	padding: 0 0 0 25px;
+	text-align: center;
+	text-decoration: none
+}
+
+#left ul#bars li a:hover,#left ul#bars li a.active {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bar-left-on.png) 0
+		0 no-repeat;
+	color: #fff
+}
+
+#left ul#bars li a:hover span,#left ul#bars li a.active span {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bar-right-on.png)
+		100% 0 no-repeat;
+	color: #fff
+}
+
+#left ul#bars li a span {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bar-right.png)
+		no-repeat scroll right top transparent;
+	color: #133d8d;
+	float: left;
+	font: bold 12px Arial, sans-serif;
+	height: 23px;
+	margin: 0;
+	padding: 7px 45px 0 0;
+	text-decoration: none
+}
+
+#left ul.short li a span {
+	padding: 7px 28px 0 0 !important
+}
+
+.h-mod {
+	margin-bottom: 20px;
+	overflow: hidden;
+	width: 600px
+}
+
+.h-mod-white .h-mod-top {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/h-box-white-top-600x13.png)
+		0 0 no-repeat
+}
+
+.h-mod-top,.h-mod-btm {
+	height: 13px;
+	width: 600px
+}
+
+.h-mod-white .h-mod-mid {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/h-box-white-mid-600x2.png)
+		0 0 repeat-y
+}
+
+.h-mod-white .h-mod-btm {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/h-box-white-btm-600x13.png)
+		0 0 no-repeat
+}
+
+.h-mod-grey .h-mod-top {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/1.0.142.3/bg/h-box-grey-top-600x13.png)
+		0 0 no-repeat
+}
+
+.h-mod-grey .h-mod-mid {
+	background: #f5f5f5
+}
+
+.h-mod-grey .h-mod-btm {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/1.0.142.3/bg/h-box-grey-btm-600x13.png)
+		0 0 no-repeat
+}
+
+#tours #left .h-mod-white,#tours #left .h-mod-grey {
+	float: left
+}
+
+#tr-book {
+	width: 560px;
+	margin: 0 auto
+}
+
+#tr-book table#tr-booking-table {
+	width: 470px
+}
+
+#container #tr-book h2 {
+	background: #ffa00a
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/booking-table-th-tile.png)
+		repeat-x;
+	color: #333;
+	font: bold 12px/1 arial;
+	margin: 0;
+	padding: 5px 0;
+	text-align: center;
+	text-shadow: 0 1px 0 #ffcc53
+}
+
+#tr-book form {
+	background: #f7f7f7;
+	border-bottom: 1px solid #ccc;
+	padding: 10px 20px
+}
+
+#tr-book label {
+	display: block;
+	margin-right: 10px
+}
+
+#tr-book form label span {
+	display: block;
+	margin-right: 5px
+}
+
+#tr-book input,#tr-book select {
+	font-size: 14px;
+	border: 1px solid #ccc;
+	padding: 2px
+}
+
+#tr-start-date-wrap {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/tr-start-date-bg.png)
+		no-repeat;
+	height: 22px;
+	width: 190px;
+	padding-top: 3px
+}
+
+#container #tr-start-date {
+	background: 0;
+	border: 0;
+	padding: 1px;
+	width: 186px
+}
+
+#tr-start-date:hover {
+	cursor: pointer
+}
+
+#tr-guests {
+	width: 50px
+}
+
+#tr-book form fieldset {
+	overflow: hidden;
+	width: 520px;
+	padding-bottom: 10px
+}
+
+#container #tr-book h3 {
+	color: #c60;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 1em
+}
+
+#tr-book form fieldset#tr-book-details {
+	background: #e1f0ff;
+	color: #333;
+	position: relative;
+	width: 500px;
+	overflow: hidden;
+	padding: 10px;
+	height: 49px
+}
+
+#Deposit {
+	font-weight: bold;
+	color: #900
+}
+
+#tr-book-details p {
+	color: #37455c
+}
+
+#tr-book-details ul {
+	margin-top: 10px;
+	padding-top: 5px;
+	border-top: 2px dotted #ccc
+}
+
+#tr-book-details li {
+	float: none
+}
+
+#tr-book-details p span#Deposit {
+	color: #0d1a33;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase
+}
+
+.tr-mod {
+	width: 560px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding-bottom: 10px;
+	padding-top: 5px
+}
+
+#tours .h-mod-mid .col1 {
+	float: left;
+	width: 290px
+}
+
+#tours .h-mod-mid .col2 {
+	float: right;
+	width: 255px
+}
+
+#container .tr-mod h2 {
+	padding: 0;
+	margin-bottom: 5px
+}
+
+#container .tr-mod a.follow {
+	color: #ff4200;
+	display: block;
+	font-weight: bold;
+	text-align: right;
+	padding-top: 10px
+}
+
+#container .tr-mod .cite span {
+	color: #1e3179;
+	font-weight: bold
+}
+
+.tr-rating {
+	background: #163a78;
+	color: #fff;
+	-moz-border-radius: 10px;
+	text-align: center;
+	width: 260px
+}
+
+.tr-rating strong {
+	display: block;
+	font-size: 24px
+}
+
+.tr-rating span {
+	text-transform: uppercase
+}
+
+#tours #tr-photos {
+	position: relative
+}
+
+#tours #tr-slider {
+	height: 173px;
+	overflow: hidden;
+	width: 260px;
+	margin: 0 auto;
+	padding-top: 3px
+}
+
+#tours #tr-slider li {
+	height: 173px;
+	overflow: hidden;
+	width: 260px
+}
+
+#tr-photos li img {
+	background: #fff;
+	border: 1px solid #ccc;
+	padding: 4px
+}
+
+a#tr-prev-btn,a#tr-next-btn {
+	display: block;
+	width: 32px;
+	height: 32px;
+	text-indent: -9999em;
+	position: absolute;
+	top: 70px
+}
+
+#tr-slider-btns {
+	text-align: center;
+	padding: 5px 0
+}
+
+#tr-photos a#tr-prev-btn {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/arrows.png)
+		no-repeat 0 0;
+	left: 0
+}
+
+#tr-photos a#tr-next-btn {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/arrows.png)
+		no-repeat -32px 0;
+	right: 0
+}
+
+#tr-photos a#tr-next-btn:hover {
+	background-position: 0 -32px
+}
+
+#tr-photos a#tr-next-btn:hover {
+	background-position: -32px -32px
+}
+
+#container #tours .tr-mod h3 {
+	color: #333;
+	margin-bottom: 5px
+}
+
+#container #tours #tr-ess ol {
+	margin-bottom: 20px
+}
+
+#container #tours #tr-ess li {
+	margin-bottom: 5px
+}
+
+#container #tour-itin p {
+	margin: .5em 0 1em 0
+}
+
+#tr-review-tab ol li {
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 380px
+}
+
+#tr-review-tab blockquote,#tr-review-tab .cite {
+	width: 300px
+}
+
+#tr-review-tab .cite {
+	border-top: 1px dotted #e1e1e1;
+	font-size: 11px;
+	font-weight: bold;
+	margin-top: 3px;
+	padding-top: 5px
+}
+
+.tr-cust-rating {
+	background-color: #f60;
+	color: #fff;
+	font-size: 18px;
+	font-weight: bold;
+	float: right;
+	text-align: center;
+	padding: 0 10px
+}
+
+#tr-results ul {
+	margin-bottom: 20px
+}
+
+#tr-results li {
+	line-height: 1.8em
+}
+
+#tr-by-category {
+	margin: 0 auto;
+	width: 260px
+}
+
+#tr-by-category li {
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/tr-by-category-tile.png)
+		repeat-x 0 100%;
+	border-bottom: 1px solid #efefef;
+	line-height: 3em
+}
+
+#tr-by-category li a {
+	color: #1e3179;
+	font-weight: bold;
+	padding-left: 10px
+}
+
+.terms-canxtimes td {
+	padding: 3px
+}
+
+.terms-header {
+	font-weight: bold
+}
+
+#calSurround {
+	background-color: #fff;
+	border: 1px solid #ccc;
+	position: absolute;
+	z-index: 100
+}
+
+#calSurround table {
+	border: 4px solid #efefef;
+	padding: 5px
+}
+
+#calSurround td {
+	border: 1px solid #fff;
+	text-align: center;
+	padding: 2px
+}
+
+#calSurround td.propNoAvail {
+	background-color: #fcc;
+	color: #900
+}
+
+#calSurround td.propAvail {
+	background-color: #d9eadf;
+	color: #000
+}
+
+#tours .latest-reviewed {
+	padding: 10px;
+	width: 600px;
+	padding-bottom: 0
+}
+
+#tours .latest-reviewed div.inner {
+	float: left;
+	margin: 0;
+	padding: 0 23px 10px;
+	width: 560px;
+	background:
+		url(http://icd.hwstatic.com/static/images/1.19.3.1/bg/frame-border600-bottom.jpg)
+		no-repeat bottom left
+}
+
+#tours .latest-reviewed li {
+	overflow: hidden;
+	margin-bottom: 10px;
+	padding-bottom: 5px
+}
+
+#tours .latest-reviewed li#first {
+	border-bottom: 1px dotted #e1e1e1
+}
+
+#container #tours .latest-reviewed h3 {
+	color: #333;
+	font-size: 12px;
+	margin-bottom: 5px
+}
+
+#tours .latest-reviewed blockquote {
+	width: 460px
+}
+
+.tours-search .rating a {
+	color: white
+}
+
+#tour-no-avail {
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 5px
+}
+
+#tr-canx-tab ol {
+	list-style: decimal outside;
+	padding-left: 40px
+}
+
+#tours #left .tours-search .rating h1 strong {
+	font-size: 22px;
+	font-weight: bold;
+	float: none
+}
+
+#tours #left .tours-search .rating h1 em {
+	float: none
+}
+
+#tours #left .tours-search div.rating p {
+	float: none;
+	text-align: left;
+	color: #537fc0
+}
+
+.tours-search .rating a {
+	color: #537fc0
+}
+
+#container #tours .err-message p {
+	margin: 0 0 0 29px
+}
+
+.booktourleft {
+	color: #f60 !important;
+	font-weight: bold
+}
+
+.trip H4 {
+	text-transform: lowercase
+}
+
+.trip H4:first-letter {
+	text-transform: uppercase
+}
+
+#peter {
+	display: none
+}
+
+.msg-extra {
+	width: 680px;
+	margin: 0
+}
+
+.warning,.error {
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 0;
+	margin-right: 0;
+	margin-top: 0;
+	border: 0
+}
+
+.imessages,.inner-messages {
+	background-color: #fefce1 !important;
+	border-bottom-left-radius: 7px;
+	border-bottom-right-radius: 7px;
+	border-top-left-radius: 7px;
+	border-top-right-radius: 7px;
+	color: #f60;
+	font-weight: bold;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	text-align: left
+}
+
+#close-it {
+	display: none
+}
+
+.fabtopfilters li {
+	float: left;
+	font-size: 11px;
+	margin-right: 15px;
+	padding-bottom: 4px;
+	padding-top: 4px
+}
+
+.microratings {
+	float: none !important;
+	padding: 10px !important;
+	margin-bottom: 20px !important;
+	background-color: #f7f7f7 !important;
+	border: 0 !important
+}
+
+.mapsearch ul {
+	width: 290px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-top: 1px dotted #e1e1e1;
+	border-bottom: 1px dotted #e1e1e1
+}
+
+.mapsearch li {
+	float: left;
+	margin-right: 5px;
+	list-style-type: none;
+	list-style-position: inside;
+	cursor: pointer
+}
+
+#regions {
+	position: relative;
+	width: 290px;
+	height: 140px;
+	border: 0;
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-color: transparent;
+	background-origin: padding-box;
+	background-size: auto auto
+}
+
+#regions a {
+	display: block;
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	text-indent: -9999px
+}
+
+#europe {
+	height: 40px;
+	left: 115px;
+	top: 1px;
+	width: 156px
+}
+
+#northAmerica {
+	height: 61px;
+	left: 3px;
+	top: 0;
+	width: 100px
+}
+
+#southAmerica {
+	height: 58px;
+	left: 52px;
+	top: 75px;
+	width: 38px
+}
+
+#asia {
+	height: 70px;
+	left: 152px;
+	top: 25px;
+	width: 110px
+}
+
+#africa {
+	height: 72px;
+	left: 115px;
+	top: 44px;
+	width: 65px
+}
+
+#oceania {
+	height: 62px;
+	left: 235px;
+	top: 72px;
+	width: 54px
+}
+
+#europe a {
+	height: 36px;
+	width: 156px
+}
+
+#northAmerica a {
+	height: 61px;
+	width: 100px
+}
+
+#southAmerica a {
+	height: 57px;
+	width: 38px
+}
+
+#asia a {
+	height: 56px;
+	width: 110px
+}
+
+#africa a {
+	height: 62px;
+	width: 65px
+}
+
+#oceania a {
+	height: 54px;
+	width: 54px
+}
